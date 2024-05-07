@@ -26,7 +26,7 @@
       <div class="demonstration">Value：{{ value3 }}</div>
       <el-date-picker
         v-model="value3"
-        type="date"
+        type="year"
         placeholder="Pick a Date"
         format="YYYY/MM/DD"
         value-format="x"
